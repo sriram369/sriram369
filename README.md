@@ -3,8 +3,8 @@
 Welcome! I'm a **Johns Hopkins (Carey)** grad student (MS in IS & AI) with a background in Computer Science. I build tools that make data easy to understand.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-profile-url/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sriramthota/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:thotasriramnaidu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -17,14 +17,8 @@ Welcome! I'm a **Johns Hopkins (Carey)** grad student (MS in IS & AI) with a bac
 
 ### 🏆 My Pinned Projects
 
-- **[Project 1: Bengaluru Vibes Tracker]([https://github.com/your-username/your-repo-link](https://github.com/sriram369/bangalore-reddit-dashboard))**
+- **[Project 1: Bengaluru Vibes Tracker]((https://github.com/sriram369/bangalore-reddit-dashboard))**
   - A 10-year analysis of subreddit data. Built with `Streamlit` and `Pandas`.
-
-### ⚡ My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight" />
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
