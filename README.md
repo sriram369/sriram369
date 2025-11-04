@@ -1,6 +1,39 @@
 <h1 align="center">Hi 👋, I'm Sriran Naidu</h1>
 <h3 align="center">Data Scientist</h3>
 
+
+# [Your Name] | Data Analyst & ML Enthusiast
+
+Welcome! I'm a **Johns Hopkins (Carey)** grad student (MS in IS & AI) with a background in Computer Science. I build tools that make data easy to understand.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-profile-url/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### 🚀 What I Do
+
+* **Data Analysis & Viz:** I use `Python`, `Pandas`, and `Plotly` to clean, analyze, and visualize complex datasets.
+* **Web Dashboards:** I build interactive dashboards with `Streamlit` to make insights accessible to everyone.
+* **Machine Learning:** I'm expanding my skills in `Scikit-learn` for predictive modeling.
+
+### 🏆 My Pinned Projects
+
+- **[Project 1: Bengaluru Vibes Tracker](https://github.com/your-username/your-repo-link)**
+  - A 10-year analysis of subreddit data. Built with `Streamlit` and `Pandas`.
+- **[Project 2: AuraPath (Group Project)](https://github.com/your-username/your-repo-link)**
+  - Accessibility-focused navigation app concept.
+- **[Project 3: Retro Telugu Radio](https://github.com/your-username/your-repo-link)**
+  - A website concept for streaming 90s-00s Telugu music.
+
+### ⚡ My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight" />
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sriramthota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sriramthota" height="30" width="40" /></a>
