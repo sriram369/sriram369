@@ -1,7 +1,3 @@
-<h1 align="center">Hi 👋, I'm Sriran Naidu</h1>
-<h3 align="center">Data Scientist</h3>
-
-
 # Sriram | Data Scientist & ML Enthusiast
 
 Welcome! I'm a **Johns Hopkins (Carey)** grad student (MS in IS & AI) with a background in Computer Science. I build tools that make data easy to understand.
