@@ -1,4 +1,4 @@
-# Sriram | Data Scientist & ML Enthusiast
+# Sriram | Data Scientist & Ai ML Enthusiast
 
 Welcome! I'm a **Johns Hopkins (Carey)** grad student (MS in IS & AI) with a background in Computer Science. I build tools that make data easy to understand.
 
