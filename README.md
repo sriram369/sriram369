@@ -2,7 +2,7 @@
 <h3 align="center">Data Scientist</h3>
 
 
-# [Your Name] | Data Analyst & ML Enthusiast
+# Sriram | Data Scientist & ML Enthusiast
 
 Welcome! I'm a **Johns Hopkins (Carey)** grad student (MS in IS & AI) with a background in Computer Science. I build tools that make data easy to understand.
 
@@ -21,12 +21,8 @@ Welcome! I'm a **Johns Hopkins (Carey)** grad student (MS in IS & AI) with a bac
 
 ### 🏆 My Pinned Projects
 
-- **[Project 1: Bengaluru Vibes Tracker](https://github.com/your-username/your-repo-link)**
+- **[Project 1: Bengaluru Vibes Tracker]([https://github.com/your-username/your-repo-link](https://github.com/sriram369/bangalore-reddit-dashboard))**
   - A 10-year analysis of subreddit data. Built with `Streamlit` and `Pandas`.
-- **[Project 2: AuraPath (Group Project)](https://github.com/your-username/your-repo-link)**
-  - Accessibility-focused navigation app concept.
-- **[Project 3: Retro Telugu Radio](https://github.com/your-username/your-repo-link)**
-  - A website concept for streaming 90s-00s Telugu music.
 
 ### ⚡ My GitHub Stats
 <p align="center">
