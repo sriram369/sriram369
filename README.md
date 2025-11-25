@@ -15,10 +15,6 @@ Welcome! I'm a **Johns Hopkins (Carey)** grad student (MS in IS & AI) with a bac
 * **Web Dashboards:** I build interactive dashboards with `Streamlit` to make insights accessible to everyone.
 * **Machine Learning:** I'm expanding my skills in `Scikit-learn` for predictive modeling.
 
-### 🏆 My Pinned Projects
-
-- **[Project 1: Bengaluru Vibes Tracker]((https://github.com/sriram369/bangalore-reddit-dashboard))**
-  - A 10-year analysis of subreddit data. Built with `Streamlit` and `Pandas`.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
