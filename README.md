@@ -1,25 +1,42 @@
-# Sriram | Data Scientist & Ai ML Enthusiast
+# Hey, I'm Sriram
 
-Welcome! I'm a **Johns Hopkins (Carey)** grad student (MS in IS & AI) with a background in Computer Science. I build tools that make data easy to understand.
+**MS in Information Systems & AI @ Johns Hopkins (Carey)** | CS undergrad background | Washington, DC
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/sriramthota/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:thotasriramnaidu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+I build AI/ML tools and contribute to open source. I care about writing clean, well-tested code that solves real problems.
+
+<a href="https://www.linkedin.com/in/sriramthota/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="mailto:thotasriramnaidu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;
+<a href="https://twitter.com/chillybrosriram"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
 
 ---
 
-### 🚀 What I Do
+### Open Source Contributions
 
-* **Data Analysis & Viz:** I use `Python`, `Pandas`, and `Plotly` to clean, analyze, and visualize complex datasets.
-* **Web Dashboards:** I build interactive dashboards with `Streamlit` to make insights accessible to everyone.
-* **Machine Learning:** I'm expanding my skills in `Scikit-learn` for predictive modeling.
+**[OpenClaw](https://github.com/openclaw/openclaw)** — Anthropic's Claude Code CLI (TypeScript, 30k+ stars)
 
+| PR | What | Status |
+|----|------|--------|
+| [#18939](https://github.com/openclaw/openclaw/pull/18939) | Fix `doctor --fix` leaving sensitive dirs world-readable (`cron/`, `browser/`, `settings/`) | Open |
+| [#18263](https://github.com/openclaw/openclaw/pull/18263) | Fix base64 validation bug causing permanent session corruption — added `validateAndNormalizeBase64()` + 7 e2e tests | **Merged** |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sriramthota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sriramthota" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### Featured Projects
+
+**[multi-agent-coder](https://github.com/sriram369/multi-agent-coder)** — 4 AI agents collaborate via LangGraph to plan, code, review, and test software from natural language. Built with Claude Sonnet 4.
+`Python` `LangGraph` `Claude API`
+
+**[Nouveau-LLM](https://github.com/sriram369/Nouveau-LLM)** — Custom LLM experimentation and fine-tuning.
+`Python` `PyTorch`
+
+**[league-churn-predictor](https://github.com/sriram369/league-churn-predictor)** — Predicting player churn with ML models.
+`Python` `Scikit-learn` `Jupyter`
+
+**[UPI_Fraud_Detection](https://github.com/sriram369/UPI_Fraud_Detection_Using_XGBoost-)** — Fraud detection on UPI transactions using XGBoost.
+`Python` `XGBoost` `Jupyter`
+
+---
+
+### Tech I Work With
+
+`Python` `TypeScript` `SQL` `C/C++` `PyTorch` `TensorFlow` `Scikit-learn` `Pandas` `LangGraph` `Streamlit` `Node.js` `Git`
