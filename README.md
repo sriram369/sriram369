@@ -1,6 +1,6 @@
 # Hey, I'm Sriram
 
-**MS in Information Systems & AI @ Johns Hopkins (Carey)** | CS undergrad background | Washington, DC
+**MS in Information Systems & AI @ Johns Hopkins ** | CS  | NYC
 
 I build AI/ML tools and contribute to open source. I care about writing clean, well-tested code that solves real problems.
 
